@@ -11,7 +11,7 @@ const dots = {
    */
   links: {
     position: 'absolute',
-    bottom: 0,
+    bottom: -5,
     textAlign: 'center',
     paddingBottom: 15,
   },
@@ -20,7 +20,7 @@ const dots = {
    */
   base: {
     position: 'absolute',
-    bottom: -5,
+    bottom: 0,
     height: 12,
     width: 12,
     borderRadius: '50%',
